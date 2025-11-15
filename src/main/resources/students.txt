@@ -1,0 +1,3 @@
+101,Krushna Khairnar,21,AIML,9370135604,krushnakhairnar72@gmail.com
+102,Prasad Khairnar,24,Mechanical Eng,7249179049,prasadkhairnar7249@gmail.com
+105,Pranita Dhobale,20,AIML,9579830844,pranitadhobale25@gmail.com
